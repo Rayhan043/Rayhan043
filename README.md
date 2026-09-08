@@ -78,15 +78,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayhan043&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff"/>
 
 </div>
 
 <br/>
 
-
-
-<br/>
 
 <div align="center">
 
