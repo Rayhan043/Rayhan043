@@ -84,11 +84,7 @@
 
 <br/>
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rayhan043&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
-</div>
 
 <br/>
 
