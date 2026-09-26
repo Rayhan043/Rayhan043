@@ -1,0 +1,496 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1180" height="610"
+  viewBox="0 0 1180 610"
+  role="img"
+  aria-label="Rayhan Chowdhury — AI/ML Engineer. Student mental health prediction, customer churn API, house price and income prediction apps. Python, FastAPI, Docker, Scikit-learn, TensorFlow." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjYmRiMDkzNC00ODBjLTQyZjMtOWIzMy1kM2ZkOWQ1ODgxNzYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaAajnrtAUPsLnWHSWp+RK20AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozZjZiNjFkOC1mMjYwLTQzNjktODVlYS1mOWU1OTlkYmZiNDlscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoipZMDIL1QNk6FjSRD6AaOwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggnKdboGHQg6+/Vt1x6+9tKEA21oRdB3d5XYSZ+gsjJFekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaOwGMdlYoOPGml5SxRj0G0cAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIICpSYOvI5ko/1M3Obi1n9Rzl1MhQxu/6Ot0RBZC3tR3ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQGdZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNiZGIwOTM0LTQ4MGMtNDJmMy05YjMzLWQzZmQ5ZDU4ODE3Ni9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjdjNWVkN2IwLTM3ZmItNDMwZC1iNDEwLTZkMDk5N2JjNWE4YnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCcp1ugYdCDr79W3XHr720oQDbWhF0Hd3ldhJn6CyMkV6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggKkHPJFU7TlDyL27++E93TghTHggbdJ1dQmplM3lTjjSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggBCTMCAwDMhM9zH37fytF3Cal5W/SJmGJQ0bhsBG5U8N0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGOqoSURBK6Z5K6sFJwRo2/0ISnPbG2kMCvFWQZ9TybKrJ69rtdoczjEDL3CIjWBl/vmaKOGcdvcXy+rj0tTeN8=</c2pa:manifest></metadata>
+
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EEF2FF"/>
+      <stop offset="50%" stop-color="#F0F9FF"/>
+      <stop offset="100%" stop-color="#F0FDF4"/>
+    </linearGradient>
+
+    <!-- Name gradient -->
+    <linearGradient id="nameGradL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="50%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+
+    <!-- Border shimmer light -->
+    <linearGradient id="shimmerL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#0891B2" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0.3"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-1 0;1 0;-1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Pill gradient light -->
+    <linearGradient id="pillGradL" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E0E7FF"/>
+      <stop offset="100%" stop-color="#DBEAFE"/>
+    </linearGradient>
+
+    <!-- Left panel gradient -->
+    <radialGradient id="leftGlowL" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#EEF2FF" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Clip for outer frame -->
+    <clipPath id="outerClipL">
+      <rect x="0" y="0" width="1180" height="610" rx="20" ry="20"/>
+    </clipPath>
+
+    <!-- Soft shadow filter -->
+    <filter id="cardShadow">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#94A3B8" flood-opacity="0.15"/>
+    </filter>
+
+    <!-- Text glow light -->
+    <filter id="textGlowL">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#outerClipL)">
+
+    <!-- Background -->
+    <rect width="1180" height="610" fill="url(#bgGradL)"/>
+
+    <!-- Subtle grid -->
+    <g opacity="0.06" stroke="#4F46E5" stroke-width="0.5">
+      <line x1="0" y1="60" x2="1180" y2="60"/>
+      <line x1="0" y1="120" x2="1180" y2="120"/>
+      <line x1="0" y1="180" x2="1180" y2="180"/>
+      <line x1="0" y1="240" x2="1180" y2="240"/>
+      <line x1="0" y1="300" x2="1180" y2="300"/>
+      <line x1="0" y1="360" x2="1180" y2="360"/>
+      <line x1="0" y1="420" x2="1180" y2="420"/>
+      <line x1="0" y1="480" x2="1180" y2="480"/>
+      <line x1="0" y1="540" x2="1180" y2="540"/>
+      <line x1="80" y1="0" x2="80" y2="610"/>
+      <line x1="160" y1="0" x2="160" y2="610"/>
+      <line x1="240" y1="0" x2="240" y2="610"/>
+      <line x1="320" y1="0" x2="320" y2="610"/>
+      <line x1="400" y1="0" x2="400" y2="610"/>
+      <line x1="480" y1="0" x2="480" y2="610"/>
+      <line x1="560" y1="0" x2="560" y2="610"/>
+      <line x1="640" y1="0" x2="640" y2="610"/>
+      <line x1="720" y1="0" x2="720" y2="610"/>
+      <line x1="800" y1="0" x2="800" y2="610"/>
+      <line x1="880" y1="0" x2="880" y2="610"/>
+      <line x1="960" y1="0" x2="960" y2="610"/>
+      <line x1="1040" y1="0" x2="1040" y2="610"/>
+      <line x1="1120" y1="0" x2="1120" y2="610"/>
+    </g>
+
+    <!-- ════════════════════════════════════════ -->
+    <!-- LEFT PANEL                               -->
+    <!-- ════════════════════════════════════════ -->
+
+    <rect x="18" y="12" width="436" height="586" rx="12" fill="url(#leftGlowL)"/>
+    <rect x="18" y="12" width="436" height="586" rx="12"
+      fill="#FFFFFF" fill-opacity="0.88"
+      stroke="url(#shimmerL)" stroke-width="1"
+      filter="url(#cardShadow)"/>
+
+    <!-- Terminal header -->
+    <rect x="18" y="12" width="436" height="36" rx="12" fill="#F1F5F9"/>
+    <rect x="18" y="36" width="436" height="12" fill="#F1F5F9"/>
+
+    <circle cx="42" cy="30" r="6" fill="#FF5F57"/>
+    <circle cx="62" cy="30" r="6" fill="#FFBD2E"/>
+    <circle cx="82" cy="30" r="6" fill="#28CA41"/>
+
+    <text x="240" y="34" text-anchor="middle"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="11" fill="#64748B" letter-spacing="2">
+      VISUAL.MAP — rayhan@dev:~
+    </text>
+
+    <rect x="406" y="18" width="36" height="16" rx="4" fill="#059669" fill-opacity="0.12" stroke="#059669" stroke-width="0.5"/>
+    <circle cx="415" cy="26" r="2.5" fill="#059669">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="420" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="8" fill="#059669">ON</text>
+
+    <line x1="18" y1="48" x2="454" y2="48" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Portrait container -->
+    <rect x="55" y="58" width="362" height="330" rx="6"
+      fill="#F0F4FF" stroke="#E2E8F0" stroke-width="0.5"/>
+
+    <!-- ASCII Portrait from photo (light) -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+       font-size="3.72" letter-spacing="0.05"
+       xml:space="preserve" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.3s" fill="freeze"/>
+<text x="57" y="64.8" fill="#E2E8F0">```````````````^^^^````^^^^&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;^^^^^^^^^``^^^^^^^^````````````````````````````````````</text>
+      <text x="57" y="70.5" fill="#E2E8F0">`````````````````^^``^^^^&quot;&quot;^&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;^^^^^^^^^^^^^^^^````````````````````````````````</text>
+      <text x="57" y="76.3" fill="#E2E8F0">```````````````^^^^^^^^^&quot;&quot;&quot;&quot;&quot;&quot;&quot;,,,,&quot;&quot;&quot;&quot;&quot;&quot;,&quot;&quot;,,,&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;^&quot;&quot;^^^^^^^``````````````````````````````</text>
+      <text x="57" y="82.0" fill="#E2E8F0">`````````````^^^&quot;&quot;&quot;&quot;&quot;^&quot;&quot;&quot;&quot;&quot;,&quot;&quot;&quot;,,,,,,,&quot;&quot;,,,,,::,,,,,,,,&quot;,,&quot;&quot;&quot;^^^^^^^^```````````````````````````</text>
+      <text x="57" y="87.8" fill="#E2E8F0">````````^```^^^^&quot;&quot;^&quot;&quot;&quot;&quot;,,&quot;,,,,,,,:::::,,:::::::::,::,:,,,,&quot;&quot;&quot;&quot;^&quot;&quot;&quot;^^^^^`````````````````````````</text>
+      <text x="57" y="93.5" fill="#E2E8F0">````````^^^^^^&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;,,,,,,::::::::::::::;:::::::::::::,,,,,&quot;&quot;&quot;&quot;&quot;^^^^^^^^``````````````````````</text>
+      <text x="57" y="99.3" fill="#E2E8F0">```````^^^^&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;,&quot;&quot;,,,,,::::::::;:,,:iII;IlI;I;;;I;::::::::,,,&quot;&quot;&quot;,&quot;&quot;&quot;&quot;^^^^```````````````````</text>
+      <text x="57" y="105.0" fill="#E2E8F0">`````^^^^^^^&quot;&quot;&quot;&quot;&quot;,,,,,,::::::;;;;;;;l??1_,:,,:l!;;::,;I;I;:::::,,,,,,,,&quot;&quot;^^^````````````````````</text>
+      <text x="57" y="110.8" fill="#E2E8F0">````^^^^^&quot;^^&quot;&quot;&quot;&quot;&quot;,,,,,::::::;II;Iil_/|[-;,,;:~i,&quot;^^&quot;^^I;;II;;;;::,:::,,,&quot;&quot;&quot;^^^^`````````````````</text>
+      <text x="57" y="116.5" fill="#E2E8F0">````^^^^^&quot;^^&quot;&quot;&quot;&quot;,,,,::::;;;;IlIi&lt;i!+!`^:l&quot;:i&gt;;&quot;!l:IlI:&quot;^^``&quot;:;lI;;:;::,,,,&quot;&quot;^^^^`^``````````````</text>
+      <text x="57" y="122.3" fill="#E2E8F0">`^``^^^^&quot;&quot;^&quot;&quot;,,,,:::::;;;IIl!!!;;I;^``^!!,lli,^lii!:^^^^^`^`^,:;III;:::::,,,&quot;&quot;&quot;^^^^^````````````</text>
+      <text x="57" y="128.1" fill="#E2E8F0">`^^^^^&quot;&quot;&quot;&quot;&quot;,:::::::;;;;IIIlIl;^````^^^&quot;,iIl;`^``&quot;::;!;&quot;^```^&quot;&quot;,^&quot;;III;;:,,,,&quot;&quot;&quot;^^^^^````````````</text>
+      <text x="57" y="133.8" fill="#E2E8F0">`^`^^^^&quot;&quot;,,,:::;;;;;;IIIli;&quot;^````^&quot;,^``&quot;&quot;&quot;^``^^````^:&quot;;l,^^``^&quot;^``,III;:,,,,,&quot;&quot;^^^^^````````````</text>
+      <text x="57" y="139.6" fill="#E2E8F0">^^^^^^^&quot;&quot;,,:::::;;;;IIIl!:&quot;^^`````^^``````````````````````^```^`^^^&quot;::I;::::,,&quot;&quot;&quot;^^^````````````</text>
+      <text x="57" y="145.3" fill="#CBD5E1">^^&quot;&quot;&quot;&quot;&quot;&quot;,,:::::;IIIIlll!,^`````````^``&quot;l&gt;~&lt;~+[/(\jj?&gt;!Il:`````````^,;,,II;;:::,,,,&quot;&quot;^^``````````</text>
+      <text x="57" y="151.1" fill="#94A3B8">^&quot;^&quot;&quot;&quot;&quot;,,,::::;;;Ill!!i;^```````````,]vmpkoa*W&amp;WW&amp;&amp;*abkkwv?`````````^:&quot;,!i;;:::::,,&quot;&quot;^^`````````</text>
+      <text x="57" y="156.8" fill="#94A3B8">^&quot;&quot;&quot;,,,,::::;;;;IIll!i:^```````````;\Z#WWMMMMM#MM##MWWWW&amp;MqfI`````````^,ilI;;;::,,,&quot;&quot;^^`````````</text>
+      <text x="57" y="162.6" fill="#64748B">^^&quot;&quot;&quot;,,,::;;;;IIIlIi!,````````````^}Oa#MMM##MMMMMMMMMMMM#MMaC&gt;`````^^``&quot;&lt;!IIII;:,,,&quot;&quot;^^^^```````</text>
+      <text x="57" y="168.3" fill="#64748B">^^&quot;&quot;&quot;&quot;&quot;,::;;;IIIIl&gt;!;^````````````I\mo*M#########MMMMMMM###Moz&quot;`````````:&lt;!lII;:::,&quot;&quot;&quot;^^^```````</text>
+      <text x="57" y="174.1" fill="#64748B">^^&quot;&quot;,,,,::;;IIlIl!l^``````````````:twa*M&amp;&amp;8&amp;888&amp;&amp;WMMMMMW&amp;&amp;WWM0~``````````I&gt;!III;:::,&quot;&quot;&quot;&quot;^^``````</text>
+      <text x="57" y="179.8" fill="#94A3B8">^&quot;&quot;&quot;,,,:::;;IIIIlI&quot;&quot;``````````````!Uk*WomLLQ0CJ0wa**#MobqpbddZ(```````````!iIII;;::,,&quot;&quot;&quot;^^^`````</text>
+      <text x="57" y="185.6" fill="#94A3B8">^&quot;&quot;&quot;,,,:::;;IllliI&quot;^`````````````!zh*dn}&gt;&gt;iI&quot;``:-vLOZCj&lt;&quot;^:Il-?```````````:lllI;;::::,&quot;&quot;^^^^````</text>
+      <text x="57" y="191.3" fill="#94A3B8">^&quot;&quot;,,,,::;;IIlll!,^`````````````^voMoLnj\|(?+&lt;;;~/Okbu&lt;`^l_1|f(^````````^`&quot;i!!II;;:::,,&quot;&quot;&quot;&quot;^^^``</text>
+      <text x="57" y="197.1" fill="#94A3B8">&quot;&quot;,,,:::;;IIIll!iI&quot;``````^Il````lwWM#hJ\+1+^?rl!-v*WWO-&lt;i:~tljC&gt;````````^`^iillII;:::,,&quot;&quot;&quot;^^^```</text>
+      <text x="57" y="202.8" fill="#64748B">&quot;&quot;&quot;,,::;;;IIl!!iii^``````i-r?I:`&lt;bMMMMadmJuftruXQoM#MMZu/)xcu0a|`````````,&gt;&gt;i!lII;;:::,,&quot;^^^````</text>
+      <text x="57" y="208.6" fill="#64748B">&quot;&quot;,,::::;;IIl!!i&gt;!```````_\z?;i`_kMMMMWWWMM*o*MWWM##MMW#oao*&amp;W&amp;Y```````:i+~ii!!lI;;;::,,&quot;&quot;&quot;^^^^`</text>
+      <text x="57" y="214.3" fill="#94A3B8">&quot;,,,::;;IIIl!!!i&gt;&gt;^``````lvr;-[`_bMMMMMMMMMMMMM*&amp;88&amp;WW&amp;%&amp;MMM##&amp;m&quot;&quot;````^&lt;+~&lt;ii!!!II;;:::,,&quot;&quot;^^^^^</text>
+      <text x="57" y="220.1" fill="#64748B">&quot;,,:::;;IIIll!!i&gt;&lt;I```````[u][!`lUhMMMMMMMMMMMapC\\CqqJ/OW#MMMWk!:``&quot;,I&lt;&lt;&lt;&lt;&gt;ii!lII;::::,,&quot;&quot;&quot;&quot;^^^</text>
+      <text x="57" y="225.8" fill="#64748B">&quot;&quot;,::::;IIIl!ii&gt;&gt;&gt;~!```````t0f[^`}Ja#oMMM#MM##Wbt||}[/ffb&amp;##M#Wh;``,I!+~~&lt;&lt;&lt;ii!llII;;:::,&quot;&quot;&quot;^^^^</text>
+      <text x="57" y="231.6" fill="#64748B">&quot;,:::;;;IIll!!ii&lt;&lt;~+&gt;:`````&quot;xJ}^`:1zCmdkaoaM&amp;Mobf&gt;I,,,:~Co&amp;&amp;MMWY:&quot;&quot;&lt;+-_+~&lt;&gt;&gt;i!!!lI;;;:::,,&quot;&quot;&quot;^^`</text>
+      <text x="57" y="237.3" fill="#94A3B8">,,,:::;;IIIl!ii&gt;&lt;&lt;~+-?&lt;I^`````````I?1ttvLmkpv{&gt;,``&quot;&lt;1_;``l\mMhL]&quot;,&gt;[-_+~&lt;&gt;ii!!lllII;;:::,,&quot;&quot;&quot;&quot;^^</text>
+      <text x="57" y="243.1" fill="#94A3B8">,,,:::;;IIll!ii&gt;&lt;&lt;~+--?&lt;^`````````&quot;!&lt;??}jYQ1```&quot;&gt;?/jnvc{,``&gt;Cx]:`,?-_+~~&lt;&gt;&gt;i!!lllII;;;::,,&quot;&quot;&quot;^^`</text>
+      <text x="57" y="248.8" fill="#94A3B8">,,::::;;IIll!ii&gt;&lt;&lt;~+-??_^`&quot;````````^,i&gt;~})\&lt;`i1tttucYYUcx{;&gt;{!:```!--+~&lt;&lt;&gt;ii!!!lII;;;:::,,&quot;&quot;&quot;&quot;^`</text>
+      <text x="57" y="254.6" fill="#94A3B8">,,,:::;;IIl!!!i&gt;&lt;&lt;++_-?]&lt;&quot;&quot;&quot;``````````,:I&lt;+I&quot;)ccx{!`^,?c0v~i&gt;&quot;````~[-+~~&lt;&gt;&gt;i!!lII;;;::::,,&quot;&quot;&quot;&quot;^^</text>
+      <text x="57" y="260.3" fill="#94A3B8">,,,,::;IIIl!!ii&gt;&gt;&lt;~+_-??[-I`^`````:``````&quot;^`&quot;&gt;|YCcrt{fQqY1;^^````^!__~+~&lt;&gt;&gt;&gt;i!llII;;:::,,,&quot;&quot;&quot;^^^</text>
+      <text x="57" y="266.1" fill="#CBD5E1">,,,:::;IIIIl!!i&gt;&lt;&lt;~+_-?]][+&quot;`````&gt;1-;`````````;~&lt;!i_+-_&gt;&gt;;^````````~-_+~&lt;&gt;&gt;ii!llII;;:::,,&quot;&quot;^^^^^</text>
+      <text x="57" y="271.8" fill="#CBD5E1">&quot;,,,:;;;;IIIl!!i&gt;&lt;~+_-?]][}?I^`^`z0|\?!````````````````````&quot;,```&quot;,~]_++~&lt;&gt;ii!llII;;::::,&quot;&quot;&quot;^^^^^</text>
+      <text x="57" y="277.6" fill="#94A3B8">&quot;,,,:::;;IIll!ii&gt;&lt;&lt;~+_-?][}{)~^``x@Or\|]&gt;&quot;`````````````^``lpx`^&quot;&lt;+--?-_~&lt;&gt;i!llllI;;::::,,&quot;&quot;&quot;^^^^</text>
+      <text x="57" y="283.3" fill="#94A3B8">,,,:::::;;IIl!ii&gt;&gt;&lt;&lt;~+-??-+~l^```&gt;M&amp;oOx(}?~i;^``````````,uoBJ`&quot;&quot;&quot;,^&quot;;li&gt;&lt;&lt;&lt;i!lllI;;;::,,,&quot;&quot;&quot;&quot;^^^</text>
+      <text x="57" y="289.1" fill="#94A3B8">,,,,::::::;Ill!!!i&lt;~~~&gt;!&quot;`````````v%#&amp;WbU/?+--~!,^,;l,:(d8M8Y`&quot;,,:;&quot;```^&quot;:I!i!!lI;::,,,,,,&quot;&quot;^^^`</text>
+      <text x="57" y="294.8" fill="#94A3B8">,,,,,::::::;;I!&gt;&lt;&lt;&lt;i:^````^```````,kW#MW8WbY|_&lt;&lt;~+]+!1w8&amp;#*%r`&quot;,,,::,&quot;```^,&quot;,;Il!!II;:,,&quot;^^^^^^^</text>
+      <text x="57" y="300.6" fill="#94A3B8">&quot;,,,,,&quot;,:;li~+&lt;il;&quot;^`````^`^^``````]&amp;MMM#MW8WhLx1[[tm%&amp;*#M#8}`^&quot;,:,::,,^``^,,,&quot;,:;II!i!lI;,&quot;^^``</text>
+      <text x="57" y="306.3" fill="#94A3B8">&quot;^^&quot;,;!i&gt;&lt;~~iI,&quot;&quot;&quot;^^```^,&quot;^&quot;&quot;^``````Y8#MMM##&amp;8oUC0xrCwM%W##W}```^&quot;:::,:;:&quot;^^&quot;::,,:,:::;Il!!!!;:,</text>
+      <text x="57" y="312.1" fill="#94A3B8">,Ii&lt;~__&lt;l;:,&quot;^&quot;,&quot;&quot;^^``&quot;::&quot;&quot;&quot;&quot;^^`````&gt;oMMM#8&amp;0[,^,,&quot;``I&lt;tk8M8v`^^&quot;&quot;&quot;,::;:,^^^,,,::::::,::;;IIII;I</text>
+      <text x="57" y="317.8" fill="#94A3B8">&gt;&gt;&gt;!I;:,,,,,,&quot;,,,&quot;&quot;^^`^^&quot;&quot;&quot;&quot;&quot;^^^^````C8#W&amp;Z+`^::::;l!,;-}zk8O`^&quot;&quot;,,,,:,^^,,&quot;&quot;&quot;,:;;::::::::;;;I&quot;&quot;</text>
+      <text x="57" y="323.6" fill="#94A3B8">,,,&quot;&quot;,,,,:,,,,:,,,&quot;&quot;&quot;&quot;^```^^&quot;&quot;&quot;&quot;&quot;^^^`]&amp;Mbr[(?,`,IIIi;!hMpmq*L`^&quot;,::,,::,,::::,,,:;;:;;;;;;:;;I^&quot;</text>
+      <text x="57" y="329.3" fill="#94A3B8">&quot;&quot;:::,,,,:::,::,,,,,&quot;,,,,,&quot;&quot;^^&quot;,&quot;&quot;^^^`U*wb*MbUt:&quot;;li,0%#W&amp;&amp;MJ^^,:::,,,:;:,:;l,,,:;;;;;:;:;;;;;^&quot;</text>
+      <text x="57" y="335.1" fill="#94A3B8">:^,:::,,:,::,,,,&quot;,,&quot;&quot;^::,,:,,,&quot;&quot;&quot;&quot;&quot;&quot;&quot;^;b8WMMWhWp:;!;,0%*M##&amp;O`^,::,:,,&quot;,::,;;&quot;:,:;;;;I;:::;;;:`&quot;</text>
+      <text x="57" y="340.8" fill="#94A3B8">,,^,,,,,,,,,,,,,,:,,,`^;:::,:,,,&quot;&quot;&quot;&quot;&quot;&quot;`~WMMMM#8L&quot;I!l;IO8#M#%X`&quot;,,::::::::,,::&quot;;::;;;;;;::::::,`,</text>
+      <text x="57" y="346.6" fill="#94A3B8">&quot;:&quot;^,:::,,,&quot;,,,,,,,,,,`^;::::::,,&quot;&quot;&quot;&quot;&quot;&quot;`t%#M#&amp;b;`;I!!;;Z8##%j`,,::,::::::::;,&quot;:;::;;:::::::::&quot;`:</text>
+      <text x="57" y="352.3" fill="#94A3B8">^&quot;,`&quot;,,,,,,&quot;&quot;&quot;&quot;,,,::,:,`,I;::::,&quot;&quot;&quot;&quot;&quot;&quot;,^`J%*M&amp;]`,:Il!!I+*M#8[`&quot;:::::::::,:,;&quot;,:::;;;:::,:,::,^`,</text>
+      <text x="57" y="358.1" fill="#94A3B8">`^&quot;&quot;`&quot;,,,&quot;,&quot;^^&quot;&quot;&quot;,,,;::,`:;;:;:,&quot;&quot;,,,,,&quot;`:q&amp;&amp;L^&quot;&quot;;IIIli;v%MoI`^::;:::::::::;&quot;&quot;,:;;;;;:::,,,:,`^&quot;</text>
+      <text x="57" y="363.8" fill="#CBD5E1">``^&quot;``&quot;,,&quot;&quot;^^^&quot;&quot;,,,:::::^`;;;::,,,,,,,,&quot;``lhB\^,,:III!!I_*%L``^:::;;::::::;I^,;;;:::,,,,,,,,&quot;`^&quot;</text>
+      <text x="57" y="369.6" fill="#CBD5E1">````^`^,&quot;,&quot;&quot;&quot;&quot;^^^&quot;,,,,::,^^;;;;:::,,,,,&quot;```-M+^,,::I!lI!,U@[``^::;;;::,:::;:^:;;;:,&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;``^^</text>
+      <text x="57" y="375.3" fill="#E2E8F0">^``````^&quot;&quot;,&quot;&quot;^^^^&quot;&quot;^,,,::,`&quot;;:::::,,,::,^`^`?I,,,;;;IIl!:{q&quot;&quot;`^,::;::,:,::;,&quot;::::&quot;^^^^&quot;&quot;&quot;,&quot;&quot;````</text>
+      <text x="57" y="381.1" fill="#E2E8F0">&quot;^^``````^^^&quot;&quot;^^``^^^&quot;&quot;,,,^`,:,::::,,::,&quot;``^`&quot;,:::;:;IlI;I&lt;&quot;&quot;`^,,;;,:::,::;&quot;&quot;:::,^^^^^^&quot;^^^^```^</text>
+      <text x="57" y="386.8" fill="#E2E8F0">,&quot;^^`````^^^&quot;&quot;&quot;^^````^^^&quot;,&quot;``:::,::,,,,,&quot;```&quot;&quot;&quot;&quot;:,:;;III;^^&quot;```::::::::::::^,:,&quot;&quot;^``^&quot;^`^^``````</text>
+    </g>
+
+    <!-- Identity content -->    <!-- Identity content -->    <!-- Identity content -->
+    <text x="236" y="412" text-anchor="middle"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="8" fill="#94A3B8" letter-spacing="4">
+      ▸ ML ENGINEER &amp; BUILDER
+    </text>
+    <line x1="70" y1="417" x2="402" y2="417" stroke="#E2E8F0" stroke-width="0.5"/>
+
+    <text x="236" y="442" text-anchor="middle"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="15" font-weight="600" fill="#0F172A" opacity="0">
+      Build · Train · Deploy
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.6s" fill="freeze"/>
+    </text>
+
+    <text x="236" y="462" text-anchor="middle"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="10" fill="#64748B" opacity="0">
+      From model to production — end to end
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.8s" fill="freeze"/>
+    </text>
+
+    <!-- Command prompt -->
+    <text x="70" y="494"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="10" fill="#94A3B8">~/rayhan</text>
+    <text x="130" y="494"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="10" fill="#4F46E5">$</text>
+    <text x="142" y="494"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="10" fill="#0891B2" opacity="0">
+      python train.py --deploy
+      <animate attributeName="opacity" values="0;1" dur="0.3s" begin="1s" fill="freeze"/>
+    </text>
+    <rect x="338" y="483" width="7" height="12" fill="#0891B2" rx="1">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Link pills -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
+      <rect x="70" y="514" width="84" height="20" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.5"/>
+      <text x="112" y="528" text-anchor="middle"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">⌥ GitHub</text>
+      <rect x="162" y="514" width="84" height="20" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.5"/>
+      <text x="204" y="528" text-anchor="middle"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">◈ Portfolio</text>
+      <rect x="254" y="514" width="84" height="20" rx="4" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="0.5"/>
+      <text x="296" y="528" text-anchor="middle"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#64748B">⊕ LinkedIn</text>
+    </g>
+
+    <!-- Bottom bar -->
+    <rect x="18" y="568" width="436" height="28" rx="0" fill="#F8FAFC"/>
+    <rect x="18" y="568" width="436" height="2" fill="url(#shimmerL)"/>
+    <circle cx="40" cy="582" r="3" fill="#059669">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="50" y="586"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="9" fill="#94A3B8">STATUS: READY</text>
+    <text x="320" y="586"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="9" fill="#CBD5E1">AI/ML · FASTAPI · DOCKER</text>
+
+    <!-- ════════════════════════════════════════ -->
+    <!-- RIGHT PANEL                              -->
+    <!-- ════════════════════════════════════════ -->
+
+    <rect x="466" y="12" width="698" height="586" rx="12"
+      fill="#FFFFFF" fill-opacity="0.92"
+      stroke="#E2E8F0" stroke-width="1"
+      filter="url(#cardShadow)"/>
+
+    <rect x="466" y="12" width="698" height="36" rx="12" fill="#F8FAFC"/>
+    <rect x="466" y="36" width="698" height="12" fill="#F8FAFC"/>
+    <line x1="466" y1="48" x2="1164" y2="48" stroke="#E2E8F0" stroke-width="1"/>
+
+    <text x="490" y="34"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="10" fill="#94A3B8" letter-spacing="2">SYSTEM.INFO</text>
+    <text x="720" y="34"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="9" fill="#CBD5E1">Projects</text>
+    <text x="800" y="34"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="9" fill="#CBD5E1">Stack</text>
+    <text x="860" y="34"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="9" fill="#CBD5E1">Education</text>
+    <text x="950" y="34"
+      font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+      font-size="9" fill="#CBD5E1">Contact</text>
+
+    <!-- Identity -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/>
+      <text x="490" y="76"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#94A3B8">rayhan@dev:~$</text>
+      <text x="596" y="76"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#4F46E5">./profile.sh</text>
+
+      <text x="490" y="110"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="32" font-weight="700" fill="url(#nameGradL)">
+        Rayhan Chowdhury
+      </text>
+      <text x="490" y="140"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="14" fill="#0891B2" letter-spacing="1">
+        AI/ML Engineer · Python Developer · Builder
+      </text>
+    </g>
+
+    <line x1="490" y1="158" x2="1140" y2="158" stroke="#E2E8F0" stroke-width="1"/>
+
+    <!-- Profile rows -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+       font-size="11" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.4s" fill="freeze"/>
+      <text x="490" y="184" fill="#94A3B8">&gt; NAME</text>
+      <text x="490" y="208" fill="#94A3B8">&gt; ROLE</text>
+      <text x="490" y="232" fill="#94A3B8">&gt; FOCUS</text>
+      <text x="490" y="256" fill="#94A3B8">&gt; BUILDING</text>
+      <text x="490" y="280" fill="#94A3B8">&gt; EDUCATION</text>
+
+      <text x="620" y="184" fill="#0F172A">Rayhan Chowdhury</text>
+      <text x="620" y="208" fill="#0891B2">AI/ML Engineer &amp; Python Developer</text>
+      <text x="620" y="232" fill="#0F172A">Machine Learning · Deep Learning · NLP · Deployment</text>
+      <text x="620" y="256" fill="#059669">End-to-end ML systems — model to production API</text>
+      <text x="620" y="280" fill="#0F172A">BSc Software Engineering</text>
+    </g>
+
+    <line x1="490" y1="294" x2="1140" y2="294" stroke="#E2E8F0" stroke-width="0.5"/>
+
+    <!-- Projects -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/>
+
+      <text x="490" y="316"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="9" fill="#94A3B8" letter-spacing="3">FEATURED PROJECTS</text>
+
+      <rect x="490" y="324" width="310" height="52" rx="6" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.5"/>
+      <circle cx="506" cy="338" r="3" fill="#059669"/>
+      <text x="518" y="342" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" font-weight="600" fill="#0F172A">Student Mental Health Prediction</text>
+      <text x="506" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8.5" fill="#64748B">ML pipeline · FastAPI · R² 0.89 · deployed live</text>
+      <text x="506" y="370" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8" fill="#94A3B8">Python · Scikit-learn · Random Forest · FastAPI · Render</text>
+
+      <rect x="812" y="324" width="310" height="52" rx="6" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.5"/>
+      <circle cx="828" cy="338" r="3" fill="#0891B2"/>
+      <text x="840" y="342" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" font-weight="600" fill="#0F172A">Customer Churn Prediction API</text>
+      <text x="828" y="358" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8.5" fill="#64748B">REST API · Docker · real-time churn probability</text>
+      <text x="828" y="370" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8" fill="#94A3B8">Python · FastAPI · Scikit-learn · Docker · Pydantic</text>
+
+      <rect x="490" y="386" width="310" height="52" rx="6" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.5"/>
+      <circle cx="506" cy="400" r="3" fill="#4F46E5"/>
+      <text x="518" y="404" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" font-weight="600" fill="#0F172A">House Price Prediction App</text>
+      <text x="506" y="420" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8.5" fill="#64748B">Linear Regression · Streamlit · live prediction UI</text>
+      <text x="506" y="432" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8" fill="#94A3B8">Python · Scikit-learn · Streamlit · Joblib</text>
+
+      <rect x="812" y="386" width="310" height="52" rx="6" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.5"/>
+      <circle cx="828" cy="400" r="3" fill="#D97706"/>
+      <text x="840" y="404" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" font-weight="600" fill="#0F172A">Adult Income Prediction App</text>
+      <text x="828" y="420" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8.5" fill="#64748B">Random Forest · Streamlit · dark-theme UI · live</text>
+      <text x="828" y="432" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8" fill="#94A3B8">Python · Scikit-learn · Streamlit · NumPy</text>
+    </g>
+
+    <line x1="490" y1="450" x2="1140" y2="450" stroke="#E2E8F0" stroke-width="0.5"/>
+
+    <!-- Tech stack -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze"/>
+
+      <text x="490" y="468"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="9" fill="#94A3B8" letter-spacing="3">TECH STACK</text>
+
+      <!-- Row 1 -->
+      <rect x="490" y="476" width="72" height="20" rx="4" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="0.5"/>
+      <circle cx="502" cy="486" r="2.5" fill="#4F46E5"/>
+      <text x="508" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Python</text>
+
+      <rect x="570" y="476" width="66" height="20" rx="4" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="0.5"/>
+      <circle cx="582" cy="486" r="2.5" fill="#059669"/>
+      <text x="588" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">FastAPI</text>
+
+      <rect x="644" y="476" width="88" height="20" rx="4" fill="#FFF7ED" stroke="#FED7AA" stroke-width="0.5"/>
+      <circle cx="656" cy="486" r="2.5" fill="#D97706"/>
+      <text x="662" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Scikit-learn</text>
+
+      <rect x="740" y="476" width="86" height="20" rx="4" fill="#FFF7ED" stroke="#FED7AA" stroke-width="0.5"/>
+      <circle cx="752" cy="486" r="2.5" fill="#EA580C"/>
+      <text x="758" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">TensorFlow</text>
+
+      <rect x="834" y="476" width="64" height="20" rx="4" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5"/>
+      <circle cx="846" cy="486" r="2.5" fill="#2563EB"/>
+      <text x="852" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Docker</text>
+
+      <rect x="906" y="476" width="62" height="20" rx="4" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="0.5"/>
+      <circle cx="918" cy="486" r="2.5" fill="#4F46E5"/>
+      <text x="924" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Pandas</text>
+
+      <rect x="976" y="476" width="60" height="20" rx="4" fill="#ECFEFF" stroke="#A5F3FC" stroke-width="0.5"/>
+      <circle cx="988" cy="486" r="2.5" fill="#0891B2"/>
+      <text x="994" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">NumPy</text>
+
+      <rect x="1044" y="476" width="68" height="20" rx="4" fill="#FEF2F2" stroke="#FECACA" stroke-width="0.5"/>
+      <circle cx="1056" cy="486" r="2.5" fill="#DC2626"/>
+      <text x="1062" y="490" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Streamlit</text>
+
+      <!-- Row 2 -->
+      <rect x="490" y="504" width="94" height="20" rx="4" fill="#FEF9C3" stroke="#FDE68A" stroke-width="0.5"/>
+      <circle cx="502" cy="514" r="2.5" fill="#CA8A04"/>
+      <text x="508" y="518" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">HuggingFace</text>
+
+      <rect x="592" y="504" width="66" height="20" rx="4" fill="#FEF2F2" stroke="#FECACA" stroke-width="0.5"/>
+      <circle cx="604" cy="514" r="2.5" fill="#DC2626"/>
+      <text x="610" y="518" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">PyTorch</text>
+
+      <rect x="666" y="504" width="68" height="20" rx="4" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="0.5"/>
+      <circle cx="678" cy="514" r="2.5" fill="#059669"/>
+      <text x="684" y="518" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Pydantic</text>
+
+      <rect x="742" y="504" width="44" height="20" rx="4" fill="#FFF7ED" stroke="#FED7AA" stroke-width="0.5"/>
+      <circle cx="754" cy="514" r="2.5" fill="#EA580C"/>
+      <text x="760" y="518" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Git</text>
+
+      <rect x="794" y="504" width="54" height="20" rx="4" fill="#F8FAFC" stroke="#E2E8F0" stroke-width="0.5"/>
+      <circle cx="806" cy="514" r="2.5" fill="#64748B"/>
+      <text x="812" y="518" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">Linux</text>
+
+      <rect x="856" y="504" width="44" height="20" rx="4" fill="#EFF6FF" stroke="#BFDBFE" stroke-width="0.5"/>
+      <circle cx="868" cy="514" r="2.5" fill="#2563EB"/>
+      <text x="874" y="518" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="9" fill="#334155">SQL</text>
+    </g>
+
+    <line x1="490" y1="534" x2="1140" y2="534" stroke="#E2E8F0" stroke-width="0.5"/>
+
+    <!-- Bottom info -->
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1s" fill="freeze"/>
+
+      <text x="490" y="556"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#94A3B8">✉</text>
+      <text x="506" y="556"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#64748B">rayhanc2002@gmail.com</text>
+
+      <text x="700" y="556"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#94A3B8">⊕</text>
+      <text x="716" y="556"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#64748B">linkedin/in/rayhan-chowdhury</text>
+
+      <text x="950" y="556"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#94A3B8">◈</text>
+      <text x="966" y="556"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="10" fill="#64748B">rayhanit.unaux.com</text>
+
+      <rect x="490" y="566" width="130" height="16" rx="3" fill="#EEF2FF" stroke="#C7D2FE" stroke-width="0.5"/>
+      <text x="496" y="578"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8" fill="#4F46E5">✦ Generative AI Literacy</text>
+
+      <rect x="628" y="566" width="108" height="16" rx="3" fill="#ECFEFF" stroke="#A5F3FC" stroke-width="0.5"/>
+      <text x="634" y="578"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8" fill="#0891B2">✦ Prompt Engineering</text>
+
+      <rect x="744" y="566" width="112" height="16" rx="3" fill="#ECFDF5" stroke="#A7F3D0" stroke-width="0.5"/>
+      <text x="750" y="578"
+        font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace"
+        font-size="8" fill="#059669">✦ Cybersecurity Awareness</text>
+    </g>
+
+  </g>
+
+  <!-- Outer border -->
+  <rect x="0.5" y="0.5" width="1179" height="609" rx="20" fill="none"
+    stroke="url(#shimmerL)" stroke-width="1.5"/>
+
+</svg>
